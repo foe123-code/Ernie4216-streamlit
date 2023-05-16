@@ -1,12 +1,12 @@
-# import all the app dependencies
-# import pandas as pd
-# import numpy as np
-# import sklearn
-# import streamlit as st
-# import joblib
-# import matplotlib
-# from IPython import get_ipython
-# from PIL import Image
+import all the app dependencies
+import pandas as pd
+import numpy as np
+import sklearn
+import streamlit as st
+import joblib
+import matplotlib
+from IPython import get_ipython
+from PIL import Image
 
 # load the encoder and model object
 model = joblib.load("rta_model_deploy3.joblib")
